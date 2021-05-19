@@ -1,17 +1,40 @@
-  body {
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-	background-image: url('blue_bg.jpg');
+ body {
+	margin: 0 !important;
+    padding: 0 !important;
+	font-family: Georgia, "Times New Roman",
+			Times, serif;
+	background-image: url('https://www.go-fair.org/wp-content/uploads/2020/07/iStock-1091882772-scaled.jpg');
+	background-size: 100%;
+	}
+	
+ul {
+	padding: 0;
+	list-style-type: none;		
+	margin-block-start: 0em;
+	margin-block-end: 0em;
 	}
 	
 ul.navbar {
-	  overflow: hidden;
-	  background-color: #333;
-	  font-family: Arial;
+	overflow: hidden;
+	background-color: #333;
+	font-family: Arial;
   }
+  
 h1 {
-  font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
+	font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif;
+	}
+	
+h1.text {
+	color: white;
+	}
+
+h4.text {
+	color: white;
+}
+h5.text {
+	color: white;
+}
 ul.navbar li {
   background: white;
   margin: 0.5em 0;
