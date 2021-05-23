@@ -3,7 +3,7 @@
     padding: 0 !important;
 	font-family: Georgia, "Times New Roman",
 			Times, serif;
-	background-image: url('https://www.go-fair.org/wp-content/uploads/2020/07/iStock-1091882772-scaled.jpg');
+	background-image: url('https://wallpaper.dog/large/980755.jpg');
 	background-size: 100%;
 	color: white;
 
@@ -38,12 +38,10 @@
 }
 
 .dropdown-content a {
-  float: none;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  text-align: left;
 }
 
 .dropdown-content a:hover {
@@ -58,15 +56,19 @@
 	line-height: 1.4;
 }
 .whitebox {
-	background-color: #f3be146e;
+    background-color: #ffffffa3;
     color: black;
     width: 463px;
-    float: right;
     position: relative;
-    right: 300px;
+    left: 100px;
     border-style: solid;
     padding: 10px;
     border-width: 1px;
+}
+
+h2.homeh2 {
+    padding-right: 520px;
+    right: 37px;
 }
 
 	ul {
@@ -81,11 +83,12 @@
 		font-family: Arial;
   }
 h1 {
-    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    /* font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; */
     color: white;
     padding-top: 35px;
-    padding-right: 300px;
-    text-align: right;
+    /* padding-right: 342px; */
+    /* text-align: right; */
+    padding-left: 100px;
     font-size: 40px;
 }
 h1.title {
@@ -96,10 +99,21 @@ h1.title {
     text-align: right;
     font-size: 40px;
 }
-h2 {
+
+.oppor_social {
     font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-    padding-right: 712px;
+    color: white;
+    padding-top: 35px;
+    padding-right: 525px;
     text-align: right;
+    font-size: 40px;
+}
+h2 {
+    /* font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; */
+    padding-left: 100px;
+    /* right: 32px; */
+    /* padding-right: 712px; */
+    text-align: left;
     font-size: 27px;
     margin-block-start: -1.0em;
 }
