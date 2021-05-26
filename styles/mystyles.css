@@ -4,7 +4,7 @@
 	font-family: Georgia, "Times New Roman",
 			Times, serif;
 	background-image: url('https://wallpaper.dog/large/980755.jpg');
-	background-size: 100%;
+	background-size: 140%;
 	color: white;
 
 
@@ -65,6 +65,32 @@
     border-style: solid;
     padding: 10px;
     border-width: 1px;
+}
+
+.imagebox .paro {
+    background-color: #dedddd;
+    color: black;
+    height: 319px;
+    position: relative;
+    left: 690px;
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    top: -338px;
+    width: 463px;
+}
+
+.imagebox .riba {
+    background-color: #dedddd;
+    color: black;
+    height: 432px;
+    position: relative;
+    left: 690px;
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    top: -452px;
+    width: 400px;
 }
 
 h2.homeh2 {
