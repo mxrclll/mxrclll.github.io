@@ -90,12 +90,30 @@
     padding: 10px;
     border-width: 1px;
     top: -452px;
-    width: 400px;
+    width: 424px;
 }
 
+.imagebox .pepper {
+    background-color: #dedddd;
+    color: black;
+    height: 310px;
+    position: relative;
+    left: 690px;
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    top: -622px;
+    width: 369px;
+}
 h2.homeh2 {
     padding-right: 520px;
     right: 37px;
+}
+
+h2.hometopic {
+    font-size: 24px;
+    top: 15px;
+    position: relative;
 }
 
 	ul {
