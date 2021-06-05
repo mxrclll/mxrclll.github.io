@@ -4,7 +4,7 @@
 	font-family: Georgia, "Times New Roman",
 			Times, serif;
 	background-image: url('https://wallpaper.dog/large/980755.jpg');
-	background-size: 100%;
+	background-size: 109%;
 	}
 	
 .whitebox {
@@ -84,6 +84,11 @@ table {
 td, th {
   border: 1px solid rgb(190,190,190);
   padding: 10px 20px;
+  width: 350px;
+}
+
+.date{
+	width: 5px;
 }
 
 th {
