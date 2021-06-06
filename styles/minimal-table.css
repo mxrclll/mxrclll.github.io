@@ -84,13 +84,15 @@ table {
 td, th {
   border: 1px solid rgb(190,190,190);
   padding: 10px 20px;
-  width: 350px;
 }
 
 .date{
 	width: 5px;
 }
 
+.reference {
+	width:0px;
+}
 th {
   background-color: rgb(235,235,235);
 }
