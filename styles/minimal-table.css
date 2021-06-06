@@ -23,6 +23,15 @@
     border-width: 1px;
 }
 
+.whitebox_reflection {
+    background-color: #e4e4e4;
+    color: black;
+    position: relative;
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+}
+
 ul {
 	padding: 0;
 	list-style-type: none;		
